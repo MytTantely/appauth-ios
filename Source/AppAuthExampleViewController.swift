@@ -32,14 +32,14 @@ let kIssuer: String = "https://accounts.google.com";
  For client configuration instructions, see the [README](https://github.com/openid/AppAuth-iOS/blob/master/Examples/Example-iOS_Swift-Carthage/README.md).
  Set to nil to use dynamic registration with this example.
 */
-let kClientID: String? = "1039915445808-gdhtjtm3fjsobneqnsdqc1acip92hg8f.apps.googleusercontent.com";
+let kClientID: String? = "1039915445808-b5cvig0l3u9v7j8m04b56brs6fg4dn14.apps.googleusercontent.com";
 
 /**
  The OAuth redirect URI for the client @c kClientID.
 
  For client configuration instructions, see the [README](https://github.com/openid/AppAuth-iOS/blob/master/Examples/Example-iOS_Swift-Carthage/README.md).
 */
-let kRedirectURI: String = "com.googleusercontent.apps.1039915445808-gdhtjtm3fjsobneqnsdqc1acip92hg8f:/oauth2redirect/example-provider";
+let kRedirectURI: String = "com.quirklogic.poc.oidc2:/oauth2redirect/example-provider";
 
 /**
  NSCoding key for the authState property.

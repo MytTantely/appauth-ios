@@ -23,7 +23,7 @@
 			<string>Editor</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>com.googleusercontent.apps.1039915445808-gdhtjtm3fjsobneqnsdqc1acip92hg8f</string>
+				<string>com.quirklogic.poc.oidc2</string>
 			</array>
 		</dict>
 	</array>
